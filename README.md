@@ -3,5 +3,7 @@ Permission-Based System Manager. This isn't just a "To-Do" list; it is a logic e
 
 Steps to Run:
 ->download or clone the repo.
+
 ->install all the dependencies from the package.json.
+
 ->npm run dev.
